@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--按钮背景色-->
+    <color name="color_blue_btn">#006AB6</color>
+    <!--信息校验界面背景色-->
+    <color name="color_background">#FBF9FE</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="stroke">#cac7c7</color>
+    <color name="blue_text">#0c91f7</color>
+    <color name="gray_text">#909497</color>
+    <color name="lable_blue">#3DB0FD</color>
+
+</resources>
